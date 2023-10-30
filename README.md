@@ -1,7 +1,7 @@
 ## Setup
 setup:
 ```
-[git clone https://gitlab.surromind.ai/mlg/dacon_cars.git](https://github.com/asdlkjw/Dacon.git)
+git clone https://github.com/asdlkjw/Dacon.git
 cd dacon_cars
 python setup.py develop
 ```
